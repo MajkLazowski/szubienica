@@ -1,4 +1,4 @@
-var haslo = "Mirek sigiemka";
+var haslo = "uwielbiam maxa verstappena";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
